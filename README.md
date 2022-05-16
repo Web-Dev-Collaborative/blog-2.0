@@ -24,7 +24,7 @@
 </div>
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1b7ee1a-11a7-4bd2-a341-2260656e216f/deploy-status)](https://app.netlify.com/sites/bgoonz-blog/deploys)[![CodeFactor](https://www.codefactor.io/repository/github/bgoonz/bgoonz_blog_2.0/badge)](https://www.codefactor.io/repository/github/bgoonz/bgoonz_blog_2.0)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ced36b99-9e92-47d6-bdb8-bcbe2e73895a/deploy-status)](https://app.netlify.com/sites/blog20-webdevcollab/deploys)
 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bgoonz.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
 
