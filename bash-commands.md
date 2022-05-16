@@ -1052,6 +1052,8 @@ fs.writeFile('output.md', cat, (err) => {
 ```sh
 find . -name "* *" -type f | rename 's/_//g'
 
+find . -name "* *" -type f | rename 's/././g'
+
 find . -name "* *" -type d | rename 's/#/_/g'
 
 ```
